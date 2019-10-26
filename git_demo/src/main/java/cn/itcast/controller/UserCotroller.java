@@ -7,6 +7,7 @@ import java.util.List;
 public class UserCotroller {
 
     public List<User> list(){
+        System.out.println("这里查询所有的用户");
         return null;
     }
 }
